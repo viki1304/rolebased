@@ -12,7 +12,7 @@ A small internal tool for employees to request office equipment and for admins t
 
 ## Prerequisites
 
-- Node.js (v14+)
+- Node.js (v20+)
 - PostgreSQL (v12+)
 
 ## Installation
